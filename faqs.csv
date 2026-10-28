@@ -1,0 +1,21 @@
+question,answer
+What is Artificial Intelligence?,Artificial Intelligence is the ability of machines to perform tasks that normally require human intelligence.
+What is Machine Learning?,Machine Learning is a branch of AI that allows computers to learn patterns from data.
+What is Deep Learning?,Deep Learning uses neural networks with multiple layers to learn complex patterns.
+What is a dataset?,A dataset is a collection of related data used for analysis or training machine learning models.
+What is an AI model?,"An AI model is a system trained on data to make predictions, recognize patterns, or generate outputs."
+What is supervised learning?,Supervised learning trains a model using labeled examples containing inputs and their correct outputs.
+What is unsupervised learning?,Unsupervised learning discovers patterns or groups in data without labeled answers.
+What are neural networks?,Neural networks are computing systems inspired by the interconnected neurons of the human brain.
+What is an embedding?,An embedding represents text or other data as a numerical vector that captures useful features or meaning.
+What is semantic search?,Semantic search finds information based on meaning and context rather than only exact keyword matches.
+What is Natural Language Processing?,"Natural Language Processing helps computers understand, analyze, and generate human language."
+What is model training?,Model training is the process of adjusting a model using data so it can learn patterns.
+What is overfitting?,Overfitting happens when a model learns training data too closely and performs poorly on unseen data.
+What is a classification model?,A classification model predicts which category or class an input belongs to.
+What is a vector database?,A vector database stores numerical embeddings and helps retrieve items with similar vectors.
+What is an AI chatbot?,An AI chatbot is a program that interacts with users through natural language conversations.
+What is data preprocessing?,Data preprocessing cleans and transforms raw data before it is used for analysis or model training.
+What is a prompt?,A prompt is the instruction or input given to an AI system to guide its response.
+What is generative AI?,"Generative AI creates new content such as text, images, audio, or code based on learned patterns."
+What is cosine similarity?,Cosine similarity measures how similar two vectors are by comparing the angle between them.
